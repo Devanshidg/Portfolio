@@ -1,7 +1,66 @@
 ---
-title: "portfolio"
+title: "Devanshi Goswami – MBA Portfolio"
+format: html
+page-layout: full
+theme: cosmo
 ---
+**Devanshi Goswami**
 
-## Quarto
+**Profile**
 
-Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see <https://quarto.org>.
+As an aspiring MBA candidate at University Canada West, I am leveraging my bachelors in Fashion Design and Business Management. Originally from Jhansi, India I incorporate creative vision with sharp operational acumen and year in customer service. My enthusiasm lies in crafting forward-thinking brands, optimising supply chain, and guiding cross-cultural teams towards common objectives. Looking ahead, my goal is to craft a personal brand strategy rooted in ethical principles and deep commitment to valuing people above all.
+
+**Education**
+
+**Pursuing an MBA**
+
+_University Canada West – Vancouver, BC_
+
+**Bachelor of Fashion Design**
+
+**Footwear Design and Development Institute (**_2018 - 2022)_
+
+- Bachelor of Design (B Des)
+- CGPA: 8.52
+
+**Work Experience**
+
+**Customer Service Representative**
+
+_Gravy & More, Surrey BC / 2024_
+
+- I connected with customers through phone, email, and chat, sharing details about our services and menu offerings to help them make informed decisions.
+- Problem solving along with offering tailored personal recommendations to our customers.
+
+**Fashion Entrepreneur**
+
+_Veechi By Devanshi - India / 2020-2023_
+
+- Started and grew an online fashion brand that found its voice and expanded its reach.
+- Responsible for everything from research to development. Initiated with concept sketches to sample runs to Instagram marketing and customer services.
+
+**Visual Merchandiser**
+
+_Zara India_ | 2022 – 2023
+
+- Responsible for the front-end staff, encouraging open communication and shared focus on sales.
+- As a VM, stepping into the font line was needed to maintain the stores overall look.
+- It included reviewing weekly trends and sales to coordinate product displays, planning timely restocks to maintain the store’s brand image.
+
+**Skills**
+
+**Marketing:** Excel, Shopify, Canva, ProjectLibre, SQL (beginner), and Digital Marketing.
+
+**Operation Management:** Creative thinking, Adaptability and Leadership.
+
+**Customer Services:** Active listening, Communication, Client relationship management, Empathy and patience
+
+Language: Hindi and English.
+
+**Contact**
+
+📧 **Email:** <devanshigoswami17@gmail.com>
+
+🔗 **LinkedIn:** [linkedin.com/in/devanshigoswami](https://linkedin.com/in/devanshigoswami)
+
+📍 Vancouver, Canada
